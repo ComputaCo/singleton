@@ -1,1 +1,3 @@
-poetry run python -m unittest tests
+#!/bin/env bash
+
+python -m unittest tests
